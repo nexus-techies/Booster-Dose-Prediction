@@ -1,0 +1,123 @@
+_id,UID,Name,Gender,State,City,Age,Taken_Vaccine,Vaccine_Name,First_Dose_Side_Effects,First_Dose_Date,Second_Dose_Date,Cowin_Ref_ID,Second_Dose_Status,Second_Dose_Side_Effects,Positive_After_Vaccine,Diseases,Booster_Dose_Possibility
+620f6dd72f6eeb2091db4b85,1.0,Vivek Kumar Burnwal,Male,West Bengal,KOLKATA,42.0,No,covishield,No,02-10-2021,01-12-2021,6813416428.0,yes,No,yes,Yes,yes
+620f6dd72f6eeb2091db4b86,2.0,Shipra Burnwal,Female,West Bengal,KOLKATA,34.0,No,covaxin,"yes, Mildly",01-01-2022,31-01-2022,2352773109.0,yes,No,No,Yes,No
+620f6dd72f6eeb2091db4b87,3.0,Samyadeep Bhowmik,Male,West Bengal,Coochbehar,19.0,Yes,covaxin,No,08-10-2021,07-11-2021,5081529239.0,yes,No,No,Yes,yes
+620f6dd72f6eeb2091db4b88,4.0,Ayush Raman,Male,Bihar,Muzaffarpur,20.0,No,covaxin,No,04-01-2022,03-02-2022,7800818412.0,yes,No,No,,
+620f6dd72f6eeb2091db4b89,5.0,Anshu Kumar Verma,Male,Jharkhand,Giridih,23.0,No,,,,,7198329346.0,,,,,
+620f6dd72f6eeb2091db4b8a,6.0,Diksha Rai,Female,Uttar Pradesh,Mau,20.0,Yes,covishield,"yes, Mildly",10-10-2021,09-12-2021,5495274447.0,yes,"yes, Mildly",yes,,yes
+620f6dd72f6eeb2091db4b8b,7.0,TARKESHWAR KUMAR ,Male,Bihar ,Muzaffarpur ,19.0,No,cvoishield,No,11-10-2021,10-12-2021,2342952519.0,yes,"yes, Mildly",No,,
+620f6dd72f6eeb2091db4b8c,8.0,Ankit Kumar,Male,Bihar,PATNA,19.0,No,covaxin,"yes, Mildly",04-12-2021,03-01-2022,8067628138.0,yes,No,yes,,
+620f6dd72f6eeb2091db4b8d,9.0,Manas Ranjan Sahoo,Male,Odisha,Bhubaneswar,52.0,Yes,,,,,6952956292.0,,,,,
+620f6dd72f6eeb2091db4b8e,10.0,Pradeep barai,Male,Nepal,Bhairahawa,18.0,No,covishield,No,02-10-2021,01-12-2021,8132138092.0,yes,No,yes,yes,yes
+620f6dd72f6eeb2091db4b8f,11.0,Madhu Sudan Biswas,Male,Odisha,Umerkote,23.0,No,covishield,No,01-10-2021,30-11-2021,7980560009.0,yes,No,No,,
+620f6dd72f6eeb2091db4b90,12.0,Sandesh jain,Male,M.p.,Sagar,34.0,No,covishield,"Yes, Strongly",06-10-2021,05-12-2021,8391332428.0,yes,No,yes,yes,yes
+620f6dd72f6eeb2091db4b91,13.0,Akanksha,Female,Up ,Jhansi,27.0,Yes,covaxin,"Yes, mildly",30-11-2021,30-12-2021,8003545863.0,yes,"yes, Strongly",no,,
+620f6dd72f6eeb2091db4b92,14.0,aditi ,Female,bihar,patna,22.0,No,covishield,"Yes, mildly",26-09-2021,25-11-2021,2318619383.0,yes,No,yes,,
+620f6dd72f6eeb2091db4b93,15.0,Rahul Kumar Jha,Male,Bihar,Motihari,28.0,No,covishield,No,31-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b94,16.0,Anuradha Mishra,Female,Bihar,Purnea,42.0,Yes,covishield,No,25-02-2022,,,No,,,,
+620f6dd72f6eeb2091db4b95,17.0,M.S Parihar,Male,Madhya Pradesh,Bhopal,49.0,Yes,covaxin,"yes, Mildly",30-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b96,18.0,Nandini Shakya,Female,Madhya Pradesh,Bhopal,20.0,No,covaxin,No,26-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4b97,19.0,Mukul anand ,Male,UP,Ballia,19.0,No,covaxin,No,28-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4b98,20.0,Royal Saren,Male,West Bengal,Medinipur,21.0,No,covishield,No,29-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b99,21.0,Nimisha Gupta,Female,Rajasthan,Bharatpur,19.0,Yes,covishield,No,29-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4b9a,22.0,Jharna Upadhyay,Female,Gujarat,Veraval,19.0,No,covishield,"Yes, Strongly",28-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b9b,23.0,Amarjeet verma,Male,Uttar pradesh,Gonda,21.0,No,covaxin,"Yes, mildly",30-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4b9c,24.0,Govindamma,Female,Andhra Pradesh,Kurnool,70.0,Yes,covishield,"Yes, mildly",26-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4b9d,25.0,Vishal Vikram gupta ,Male,Uttarpradesh,Pratapgarh ,29.0,No,covishield,No,29-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b9e,26.0,Tejas Hendre,Male,Maharashtra,Thane,21.0,No,covishield,No,30-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4b9f,27.0,SK Dubey,Male,Jharkhand,Ranchi,51.0,Yes,covaxin,No,05-11-2021,05-12-2021,8853960664.0,yes,No,yes,,
+620f6dd72f6eeb2091db4ba0,28.0,Ganesh Raman,Male,Bihar,Muzaffarpur,48.0,Yes,covishield,No,06-10-2021,05-12-2021,4315582761.0,yes,No,yes,Yes,yes
+620f6dd72f6eeb2091db4ba1,29.0,Utkarsh,Male,Uttar Pradesh,Lucknow,20.0,No,,,,,9565799167.0,,,,,
+620f6dd72f6eeb2091db4ba2,30.0,Nagendra Nagar,Male,UP,Greater NOIDA,48.0,Yes,covishield,"yes, Mildly",28-10-2021,27-12-2021,8210850475.0,yes,No,No,Yes,No
+620f6dd72f6eeb2091db4ba3,31.0,Varija srivastava,Female,Uttar Pradesh,Varanasi,20.0,No,covishield,No,12-09-2021,11-11-2021,3877348952.0,yes,"yes, Mildly",No,Yes,yes
+620f6dd72f6eeb2091db4ba4,32.0,Sangeeta Tiwari ,Female,Madhya Pradesh ,Pali,20.0,Yes,,,,,5525313178.0,,,,,
+620f6dd72f6eeb2091db4ba5,33.0,Sushil Kumar Tiwari ,Male,Madhya Pradesh ,Pali,46.0,Yes,covaxin,"yes, Strongly",13-11-2021,13-12-2021,1699348566.0,yes,"yes, Mildly",yes,yes,yes
+620f6dd72f6eeb2091db4ba6,34.0,Vibhu Saxena,Male,Chhattisgarh,Naya Raipur,21.0,No,,,,,3481405467.0,,,,,
+620f6dd72f6eeb2091db4ba7,35.0,Kaustubh Singh,Male,Uttar Pradesh,Ballia,21.0,No,covaxin,"yes, Mildly",06-12-2021,05-01-2022,3632639892.0,yes,"yes, Strongly",yes,,
+620f6dd72f6eeb2091db4ba8,36.0,Santosh Kumar Singh,Male,Uttar Pradesh,Ballia,51.0,Yes,covaxin,No,29-11-2021,29-12-2021,6601452488.0,yes,No,No,yes,yes
+620f6dd72f6eeb2091db4ba9,37.0,Kanchan Singh,Female,Uttar Pradesh,Ballia,49.0,Yes,covishield,No,04-09-2021,03-11-2021,8993670450.0,yes,"yes, Mildly",No,,
+620f6dd72f6eeb2091db4baa,38.0,Dr. Shashi S. Kishore,Male,Bihar,Patna,55.0,Yes,covishield,"yes, Mildly",01-10-2021,30-11-2021,8794305970.0,yes,No,yes,,
+620f6dd72f6eeb2091db4bab,39.0,Satvik ,Male,Uttar Pradesh ,Varanasi ,21.0,Yes,covishield,"yes, Strongly",01-11-2021,31-12-2021,1210611429.0,yes,"yes, Mildly",yes,,
+620f6dd72f6eeb2091db4bac,40.0,Shruti Jain,Female,Delhi,Delhi,53.0,Yes,covaxin,"yes, Mildly",16-11-2021,16-12-2021,8476237796.0,yes,No,No,,
+620f6dd72f6eeb2091db4bad,41.0,Swapnil Pandey,Male,Uttar Pradesh,Ghaziabad,20.0,No,covishield,No,03-12-2021,01-02-2022,3295189166.0,yes,"yes, Strongly",No,yes,No
+620f6dd72f6eeb2091db4bae,42.0,JYOTSNA MAURYA,Female,UTTAR PRADESH,RAEBARELI ,19.0,No,,,,,4147161115.0,,,,,
+620f6dd72f6eeb2091db4baf,43.0,Parmatma pandey,Male,Bihar,Saran,67.0,Yes,covishield,"yes, Strongly",15-10-2021,14-12-2021,2162623705.0,yes,"yes,Mildly",No,yes,yes
+620f6dd72f6eeb2091db4bb0,44.0,Indu devi,Female,Bihar,Saran,66.0,Yes,,,,,6099725513.0,,,,,
+620f6dd72f6eeb2091db4bb1,45.0,Dr U P chaturvedi,Male,Uttar Pradesh,Balrampur,62.0,Yes,covaxin,"yes, Strongly",02-12-2021,01-01-2022,9865448764.0,yes,"yes, Mildly",yes,,yes
+620f6dd72f6eeb2091db4bb2,46.0,Mrs Ramrati chaturvedi,Female,Uttar Pradesh,Balrampur,59.0,Yes,,,,,6573610051.0,,,,,
+620f6dd72f6eeb2091db4bb3,47.0,Manju devi,Female,Uttar pradesh,Varanasi,40.0,Yes,covaxin,No,19-11-2021,19-12-2021,6883054940.0,yes,No,yes,,yes
+620f6dd72f6eeb2091db4bb4,48.0,Mr. Sanjay Jha.,Male,Jharkhand,Ranchi,47.0,Yes,,,,,4133562402.0,,,,,
+620f6dd72f6eeb2091db4bb5,49.0,Rishu Mishra,Male,Utter pradesh,Pratapgarh,19.0,No,covaxin,No,21-10-2021,20-11-2021,7723815336.0,yes,No,yes,,yes
+620f6dd72f6eeb2091db4bb6,50.0,Sudha Singh ,Female,Uttar Pradesh,Chandauli,47.0,No,covishield,No,05-10-2021,04-12-2021,3723415071.0,yes,No,No,,
+620f6dd72f6eeb2091db4bb7,51.0,Vishesh kumar mishra ,Male,Uttar Pradesh ,Lucknow ,21.0,No,,,,,8726459383.0,,,,,
+620f6dd72f6eeb2091db4bb8,52.0,Ankit Gond,Male,Uttar Pradesh,Varanasi,20.0,Yes,covishield,"yes, Mildly",09-10-2021,08-12-2021,5288035173.0,yes,No,yes,,yes
+620f6dd72f6eeb2091db4bb9,53.0,Krishabh,Male,Uttrakhand,Kashipur,27.0,Yes,,,,,9746073747.0,,,,,
+620f6dd72f6eeb2091db4bba,54.0,Shalini Srivastav,Female,Uttar Pradesh,Pratapgarh,46.0,Yes,,,,,8175270521.0,,,,,
+620f6dd72f6eeb2091db4bbb,55.0,Sunita Verma ,Female,Delhi,Delhi,53.0,Yes,,,,,2703462072.0,,,,,
+620f6dd72f6eeb2091db4bbc,56.0,Anushka Singh,Female,UP,Pratapgarh,20.0,No,,,,,4182534158.0,,,,,
+620f6dd72f6eeb2091db4bbd,57.0,Karuna,Female,Haryana,Palwal,18.0,Yes,,,,,9467893025.0,,,,,
+620f6dd72f6eeb2091db4bbe,58.0,B N Singh,Male,Uttar Pradesh,Varanasi,62.0,Yes,,,,,5283078170.0,,,,,
+620f6dd72f6eeb2091db4bbf,59.0,Aryan Deep,Male,Up,Varanasi,20.0,No,covishield,No,15-10-2021,14-12-2021,8313850561.0,yes,"yes, Strongly",yes,,
+620f6dd72f6eeb2091db4bc0,60.0,Gayatri pandey,Female,Uttar pradesh,Chandauli,55.0,Yes,covaxin,"yes, Mildly",11-12-2021,10-01-2022,3800981424.0,yes,No,No,yes,yes
+620f6dd72f6eeb2091db4bc1,61.0,Divya,Female,Uttar Pradesh,Sonebhadra,21.0,No,covaxin,No,04-12-2021,03-01-2022,1907052384.0,yes,No,no,,
+620f6dd72f6eeb2091db4bc2,62.0,Priyanshi Verma,Female,Jharkhand,RANCHI,19.0,Yes,covishield,No,02-10-2021,01-12-2021,6813416428.0,yes,No,yes,Yes,yes
+620f6dd72f6eeb2091db4bc3,63.0,ISHIKA PATEL,Female,Uttar Pradesh,Lakhimpur Kheri,18.0,Yes,covaxin,"yes, Mildly",01-01-2022,31-01-2022,2352773109.0,yes,No,No,Yes,No
+620f6dd72f6eeb2091db4bc4,64.0,amit Srivastava ,Male,uttar Pradesh , Varanasi ,40.0,Yes,covaxin,No,08-10-2021,07-11-2021,5081529239.0,yes,No,No,Yes,yes
+620f6dd72f6eeb2091db4bc5,65.0,Archana Patel,Female,Assam,Guvahati,45.0,Yes,covaxin,No,04-01-2022,03-02-2022,7800818412.0,yes,No,No,,
+620f6dd72f6eeb2091db4bc6,66.0,Narendra kumar Barnwal,Male,Jharkhand ,Hazaribagh,57.0,Yes,,,,,7198329346.0,,,,,
+620f6dd72f6eeb2091db4bc7,67.0,SHASHANK SINGH,Male,UTTAR PRADESH,PRAYAGRAJ,19.0,Yes,covishield,"yes, Mildly",10-10-2021,09-12-2021,5495274447.0,yes,"yes, Mildly",yes,,yes
+620f6dd72f6eeb2091db4bc8,68.0,Sunilgwal15@gmail.com ,Male,Utter pradesh,Varanasi ,55.0,No,cvoishield,No,11-10-2021,10-12-2021,2342952519.0,yes,"yes, Mildly",No,,
+620f6dd72f6eeb2091db4bc9,69.0,Sadhana  Gupta,Female,west bengal,kolkata,54.0,Yes,covaxin,"yes, Mildly",04-12-2021,03-01-2022,8067628138.0,yes,No,yes,,
+620f6dd72f6eeb2091db4bca,70.0,Ravi shanker Gupta,Male,west bengal,kolkata,58.0,Yes,,,,,6952956292.0,,,,,
+620f6dd72f6eeb2091db4bcb,71.0,Sheo nath shaw,Male,west bengal,kolkata,85.0,Yes,covishield,No,02-10-2021,01-12-2021,8132138092.0,yes,No,yes,yes,yes
+620f6dd72f6eeb2091db4bcc,72.0,Vinamra Krishnatray,Male,Uttar Pradesh,Hapur ,19.0,No,covishield,No,01-10-2021,30-11-2021,7980560009.0,yes,No,No,,
+620f6dd72f6eeb2091db4bcd,73.0,Shubham Arora,Male,Delhi,New Delhi,20.0,No,covishield,"Yes, Strongly",06-10-2021,05-12-2021,8391332428.0,yes,No,yes,yes,yes
+620f6dd72f6eeb2091db4bce,74.0,MANTU KUMAR GUPTA ,Male,BIHAR,SAMASTIPUR ,52.0,Yes,covaxin,"Yes, mildly",30-11-2021,30-12-2021,8003545863.0,yes,"yes, Strongly",no,,
+620f6dd72f6eeb2091db4bcf,75.0,Bhagaram,Male,RAJASTHAN ,Barmer ,50.0,Yes,covishield,"Yes, mildly",26-09-2021,25-11-2021,2318619383.0,yes,No,yes,,
+620f6dd72f6eeb2091db4bd0,76.0,Nikita Dadhich,Female,Delhi,Delhi,21.0,No,covishield,No,31-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bd1,77.0,Ashok Kumar Thakur,Male,UTTAR PRADESH,RAEBARELI,55.0,Yes,covishield,No,25-02-2022,,,No,,,,
+620f6dd72f6eeb2091db4bd2,78.0,Paarth Singh,Male,Uttar Pradesh,Lucknow,18.0,No,covaxin,"yes, Mildly",30-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bd3,79.0,Vinay kumar chaturvedi,Male,Uttar Pradesh,Balrampur,21.0,No,covaxin,No,26-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4bd4,80.0,Nidhi Kumari,Female,Uttar Pradesh,Varanasi,20.0,No,covaxin,No,28-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4bd5,81.0,Shubham kumar ,Male,Up,Varanasi ,22.0,Yes,covishield,No,29-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bd6,82.0,Dhanpati,Female,Haryana,Kosli,70.0,Yes,covishield,No,29-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4bd7,83.0,Ankit Pandey,Male,Bihar,Sitamarhi,25.0,Yes,covishield,"Yes, Strongly",28-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bd8,84.0,Hiralal Singh,Male,Bihar,Kaimur,53.0,Yes,covaxin,"Yes, mildly",30-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4bd9,85.0,Saurabh Tiwari,Male,Haryana,Karnal,23.0,Yes,covishield,"Yes, mildly",26-01-2022,,,No,,,,
+620f6dd72f6eeb2091db4bda,86.0,HARSHITA SRIVASTAVA,Female,Uttar Pradesh,LUCKNOW,26.0,No,covishield,No,29-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bdb,87.0,Manju Srivastava,Female,Uttar Pradesh,LUCKNOW,53.0,Yes,covishield,No,30-01-2022,,,No,,,yes,
+620f6dd72f6eeb2091db4bdc,88.0,Narendra Kumar,Male,Uttar Pradesh,LUCKNOW,54.0,Yes,covaxin,No,05-11-2021,05-12-2021,8853960664.0,yes,No,yes,,
+620f6dd72f6eeb2091db4bdd,89.0,Shatakshi sinha,Female,Uttar Pradesh,Lucknow,21.0,No,covishield,No,06-10-2021,05-12-2021,4315582761.0,yes,No,yes,Yes,yes
+620f6dd72f6eeb2091db4bde,90.0,Srishti,Female,Uttar Pradesh,Lakhimpur,22.0,Yes,,,,,9565799167.0,,,,,
+620f6dd72f6eeb2091db4bdf,91.0,Ajay kumar singh,Male,Uttar pradesh,Lucknow,50.0,Yes,covishield,"yes, Mildly",28-10-2021,27-12-2021,8210850475.0,yes,No,No,Yes,No
+620f6dd72f6eeb2091db4be0,92.0,ABHISHEK KUMAR,Male,Bihar,Jamalpur,19.0,Yes,covishield,No,12-09-2021,11-11-2021,3877348952.0,yes,"yes, Mildly",No,Yes,yes
+620f6dd72f6eeb2091db4be1,93.0,A K Mukherjee,Male,Uttar Pradesh,Lucknow,59.0,Yes,,,,,5525313178.0,,,,,
+620f6dd72f6eeb2091db4be2,94.0,Ruby Banerjee,Female,Uttar Pradesh,Lucknow,50.0,Yes,covaxin,"yes, Strongly",13-11-2021,13-12-2021,1699348566.0,yes,"yes, Mildly",yes,yes,yes
+620f6dd72f6eeb2091db4be3,95.0,Mamta Kumari,Female,Bihar,Muzaffarpur,45.0,Yes,,,,,3481405467.0,,,,,
+620f6dd72f6eeb2091db4be4,96.0,Pinky,Female,Haryana,Ambala,45.0,Yes,covaxin,"yes, Mildly",06-12-2021,05-01-2022,3632639892.0,yes,"yes, Strongly",yes,,
+620f6dd72f6eeb2091db4be5,97.0,Pratikshya Borpujari ,Female,Assam,Jorhat ,22.0,Yes,covaxin,No,29-11-2021,29-12-2021,6601452488.0,yes,No,No,yes,yes
+620f6dd72f6eeb2091db4be6,98.0,Prayashi Borpujari ,Female,Assam ,Jorhat,27.0,Yes,covishield,No,04-09-2021,03-11-2021,8993670450.0,yes,"yes, Mildly",No,,
+620f6dd72f6eeb2091db4be7,99.0,Prasanta Borpujari ,Male,Assam ,Jorhat,62.0,Yes,covishield,"yes, Mildly",01-10-2021,30-11-2021,8794305970.0,yes,No,yes,,
+620f6dd72f6eeb2091db4be8,100.0,Ananya Saikia,Female,Assam,Jorhat,22.0,No,covishield,"yes, Strongly",01-11-2021,31-12-2021,1210611429.0,yes,"yes, Mildly",yes,,
+620f6dd72f6eeb2091db4be9,101.0,Dipen Saikia,Male,Assam ,Jorhat,43.0,Yes,covaxin,"yes, Mildly",16-11-2021,16-12-2021,8476237796.0,yes,No,No,,
+620f6dd72f6eeb2091db4bea,102.0,Rupjyoti bora,Female,Assam,Jorhat,40.0,No,covishield,No,03-12-2021,01-02-2022,3295189166.0,yes,"yes, Strongly",No,yes,No
+620f6dd72f6eeb2091db4beb,103.0,Ranjita Sharma ,Female,Assam,Jorhat,52.0,Yes,,,,,4147161115.0,,,,,
+620f6dd72f6eeb2091db4bec,104.0,Karuna Kanta Sharma ,Male,Assam,Jorhat,63.0,Yes,covishield,"yes, Strongly",15-10-2021,14-12-2021,2162623705.0,yes,"yes,Mildly",No,yes,yes
+620f6dd72f6eeb2091db4bed,105.0,Adrita Paria,Female,West Bengal,KOLKATA,23.0,No,,,,,6099725513.0,,,,,
+620f6dd72f6eeb2091db4bee,106.0,Debeswari Payeng,Female,Assam,Jorhat,48.0,Yes,covaxin,"yes, Strongly",02-12-2021,01-01-2022,9865448764.0,yes,"yes, Mildly",yes,,yes
+620f6dd72f6eeb2091db4bef,107.0,Abhishek kumar jha,Male,Bihar,Samastipur,21.0,Yes,,,,,6573610051.0,,,,,
+620f6dd72f6eeb2091db4bf0,108.0,Soham Sen Gupta,Male,West Bengal,Howrah,21.0,No,covaxin,No,19-11-2021,19-12-2021,6883054940.0,yes,No,yes,,yes
+620f6dd72f6eeb2091db4bf1,109.0,Rama Sen Gupta,Female,West Bengal,Howrah,65.0,Yes,,,,,4133562402.0,,,,,
+620f6dd72f6eeb2091db4bf2,110.0,Srishti Baranwal,Female,Uttar Pradesh,Pratapgarh,19.0,No,covaxin,No,21-10-2021,20-11-2021,7723815336.0,yes,No,yes,,yes
+620f6dd72f6eeb2091db4bf3,111.0,Prateek Srivastava ,Male,UP,Lucknow,23.0,Yes,covishield,No,05-10-2021,04-12-2021,3723415071.0,yes,No,No,,
+620f6dd72f6eeb2091db4bf4,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bf5,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bf6,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bf7,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bf8,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bf9,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bfa,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bfb,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bfc,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bfd,,,,,,,,,,,,,,,,,
+620f6dd72f6eeb2091db4bfe,,,,,,,,,,,,,,,,,
