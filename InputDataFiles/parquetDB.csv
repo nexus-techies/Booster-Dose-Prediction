@@ -1,0 +1,52 @@
+UID,Name,Gender,State,City,Age,Taken_Vaccine,"Vaccine_Name
+",First_Dose_Date,First_Dose_Side_Effects,Second_Dose_Date,Second_Dose_Side_Effects,Cowin_Ref_ID,Second_Dose_Status,Positive_After_Vaccine,Diseases,Booster_Dose_Possibility
+101,Sarika Bhardwaj,Female,Uttar Pradesh,Mathura,21,Yes,Covishield,02-03-2021,"Yes, mildly",04-04-2021,No,77328597,yes,No,Yes,No
+102,Swarup,Male,Odisha,Bhubaneswar,21,Yes,Covaxin,01-02-2022,"Yes, mildly",,No,48145206,No,No,Yes,No
+103,Mrs.Nishu Tiwari,Female,UP,Bareilly,54,Yes,Covishield,08-25-2021,"Yes, mildly",,,58335779,No,,Yes,Yes
+104,Mantu Nath Roy,Male,West Bengal,Coochbehar,55,Yes,Covishield,12-15-2021,No,02-13-2022,No,97432837,yes,No,No,No
+105,Deepshikha,Female,Uttar Pradesh,Varanasi,21,Yes,Covaxin,10-19-2021,No,,No,870067,No,No,No,No
+106,Shubhi Saxena,Female,Uttar Pradesh,Bareilly,22,Yes,Covaxin,11-19-2021,"Yes, mildly",,,18735590,No,No,Yes,No
+107,Santosh Kumar Jha,Male,Bihar,Nawada,57,Yes,Covishield,04-14-2021,No,06-13-2021,Yes,17907600,yes,No,Yes,Yes
+108,Shah Dishansh Rajnikant,Male,Gujarat,Ahmedabad,27,Yes,Covishield,04-15-2021,"Yes, strongly",,,74815915,No,No,Yes,No
+109,Ananya Singh,Female,Uttar Pradesh,Ambedkar Nagar,21,No,,,,,,,,,,No
+110,Ashish,Male,"Province 2, Nepal",Janakpur,24,Yes,Covishield,06-18-2021,"Yes, mildly",08-17-2021,No,21045937,yes,No,Yes,No
+111,Mahi Mali,Male,Maharashtra,Pandharpur,23,No,,,,,,,,,,No
+112,Abhijit Vinod Singh,Male,Maharashtra,Mumbai,23,No,,,,,,,,,,No
+113,Vijay Tiwari,Male,Uttar Pradesh,Bareilly,53,Yes,Covishield,01-13-2021,"Yes, mildly",03-14-2021,,38459367,yes,No,Yes,No
+114,Harsh SrIvastava,Male,Uttar Pradesh,Gonda,20,Yes,Covaxin,01-11-2021,No,,No,82590405,No,No,No,No
+115,Raj Kishore Tiwari,Male,Uttar Pradesh,Bareilly,83,Yes,Covishield,10-23-2021,"Yes, mildly",12-22-2021,,56148190,yes,No,Yes,Yes
+116,Bhim,Male,Rajasthan,Bhilwara,49,Yes,Covishield,03-12-2021,"Yes, mildly",,"Yes, strongly",28118200,No,No,Yes,No
+117,Apoorva Srivastava,Female,Uttarpradesh,Lucknow,23,Yes,Covishield,02-17-2021,"Yes, strongly",,"Yes, mildly",50620400,No,No,Yes,No
+118,Mithilesh Singh,Male,Uttar Pardesh,"Kund, Pratapgarh",50,Yes,Covaxin,03-17-2021,"Yes, mildly",04-16-2021,yes,81312894,yes,yes,Yes,No
+119,Shruthi,Female,Telangana,Hyderabad,20,No,,,,,,,,,,No
+120,Vaibhav,Male,Uttar Pradesh,Varanasi,21,Yes,Covishield,06-09-2021,"Yes, mildly",08-08-2021,,3977449,yes,No,Yes,No
+121,Shashank,Male,UTTAR PRADESH,Prayagraj,20,No,,,,,,,,,,No
+122,AKANKSHA YADAV,Female,UTTAR PRADESH,Sultanpur,22,No,,,,,,,,No,,No
+123,Badri vishal tiwari,Male,Uttar pradesh,Pratapgarh,64,Yes,Covaxin,02-17-2021,No,03-19-2021,No,5837830,yes,No,No,No
+124,Abhishek,Male,Bihar,Patna,21,No,,,,,,,,,,No
+125,AVINASH AGRAHARI,Male,Uttar Pradesh,Prayagraj,21,No,,,,,,,,,,No
+126,Atul Dixit,Male,Haryana,Karnal,23,Yes,Covishield,02-16-2021,No,04-17-2021,,36795604,yes,No,No,No
+127,Rajesh Kumar Gupta,Male,UP,Sonebhadra,49,Yes,Covaxin,02-16-2021,"Yes, mildly",,,23392784,No,No,Yes,No
+128,Rama Devi,Female,Andhra Pradesh,Kakinada,52,Yes,Covaxin,02-16-2021,"Yes, mildly",03-18-2021,"Yes, strongly",5775505,yes,yes,Yes,Yes
+129,anant mishra,Male,Uttar Pradesh,pratapgarh,36,Yes,Covishield,11-19-2021,"Yes, strongly",1-18-2022,"Yes, strongly",30257073,yes,No,Yes,No
+130,T r sridhar rao,Male,Telangana,Hyderabad,55,Yes,Covaxin,02-16-2021,No,03-18-2021,"yes, mildly",87926224,yes,No,No,No
+131,svipint@gmail.com,Male,up,pratapgarh,38,Yes,Covishield,12-10-2021,"Yes, mildly",02-08-2022,No,2106637,yes,No,Yes,No
+132,Neelamma,Female,Telangana,Hyderbad,35,Yes,Covaxin,05-10-2021,"Yes, mildly",06-09-2021,No,29175105,yes,No,Yes,No
+133,Ashish kumar mishra,Male,Uttar pradesh,Karwi chitrakoot,22,Yes,Covaxin,02-16-2021,No,03-18-2021,No,31596721,yes,No,No,No
+134,Kundan Srivastava,Male,UP,Pratapgarh,60,Yes,Covaxin,09-10-2021,No,10-10-2021,yes,48925297,yes,yes,yes,Yes
+135,Shashwat Pandey,Male,Uttar Pradesh,Kunda,21,No,,,,,,,,,,No
+136,Safdar Raza Khan,Male,UP,Sultanpur,63,Yes,Covishield,02-16-2021,"Yes, mildly",04-17-2021,"Yes, mildly",21545404,yes,No,Yes,Yes
+137,AMIT KUMAR,Male,Uttar Pradesh,LUCKNOW,25,No,,,,,,,,,,No
+138,Ayush Maurya,Male,Uttar Pradesh,Unchahar,20,No,,,,,,,,,,No
+139,Phuntsho Dema,Female,Bhutan,Thimphu,22,Yes,Covishield,02-16-2021,"Yes, mildly",04-17-2021,No,9547539,yes,No,Yes,No
+140,ALOK KUMAR GIRI,Male,UTTAR PRADESH,PRAYAGRAJ,19,No,,,,,,,,,,No
+141,RISHABH PANDEY,Male,Uttar Pradesh,BASTI,19,No,,,,,,,,,,No
+142,Kamlesh kumawat,Male,Rajasthan,Bhilwara,18,Yes,Covishield,11-12-2021,"Yes, mildly",01-11-2022,,38585423,yes,No,Yes,No
+143,Rajnikant,Male,Bihar,Bhabua,47,Yes,Covishield,04-12-2021,"Yes, mildly",06-11-2021,,72707259,yes,No,Yes,No
+144,RS,Female,WB,Kolkata,52,Yes,Covishield,05-15-2021,"Yes, mildly",07-14-2021,No,19520315,yes,No,Yes,No
+145,Shyama Prasad Paul,Male,West Bengal,Durgapur,53,Yes,Covishield,04-21-2021,No,06-20-2021,No,91213697,yes,No,,No
+146,Swapna Das,Female,West Bengal,Durgapur,63,Yes,Covishield,02-15-2021,"Yes, strongly",04-16-2021,No,94113124,yes,No,Yes,Yes
+147,Manish Tiwari,Male,UTTAR PRADESH,Prayagraj,29,Yes,Covishield,08-17-2021,"Yes, mildly",10-16-2021,,75771631,yes,No,Yes,No
+148,Pradeep sonker,Male,Uttar pradesh,Varanasi,46,Yes,Covishield,03-11-2021,"Yes, mildly",05-10-2021,"Yes, mildly",7319080,yes,No,Yes,No
+149,Unavailable,Prefer not to say,Uttar Pradesh,Lucknow,23,Yes,Covishield,08-09-2021,"Yes, strongly",10-08-2021,"Yes, strongly",82429731,yes,Yes,Yes,Yes
+150,Kanika,Female,Delhi,Delhi,19,No,,,,,,,,,,No
