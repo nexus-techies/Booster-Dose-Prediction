@@ -1,0 +1,60 @@
+UID,Name,Gender,State,City,Age,Taken_Vaccine,Vaccine_Name,First_Dose_Date,First_Dose_Side_Effects,Second_Dose_Date,Second_Dose_Side_Effects,Cowin_Ref_ID,Second_Dose_Status,Positive_After_Vaccine,Diseases,Booster_Dose_Possibility
+1,Kailash yadav,Male,Gujrat,Vapi,53,Yes,covishield,01/11/2021,"yes, Strongly",31/12/2021,"yes, Mildly",1210611429,yes,yes,,
+2,Saroj Yadav,Female,Uttar Pradesh,Noida,51,Yes,covaxin,16/11/2021,"yes, Mildly",16/12/2021,No,8476237796,yes,No,,
+3,Bal kirshna yadav,Male,Uttar pardesh ,Noida,68,Yes,covishield,03/12/2021,No,01/02/2022,"yes, Strongly",3295189166,yes,No,yes,No
+4,Amita dixit,Female,Maharashtra,Mumbai,40,No,,,,,,4147161115,,,,
+5,Sanjeev Chauhan,Male,Maharashtra,Pune,60,Yes,covishield,15/10/2021,"yes, Strongly",14/12/2021,"yes,Mildly",2162623705,yes,No,yes,yes
+6,Raj Shekhar Singh,Male,Tamil Nadu,Chennai,25,No,,,,,,6099725513,,,,
+7,Harshit Pandey,Male,Karnataka,Bangluru,29,Yes,covaxin,02/12/2021,"yes, Strongly",01/01/2022,"yes, Mildly",9865448764,yes,yes,,yes
+8,Vanshika Singh,Female,Uttar Pradesh ,Raibareli,21,No,,,,,,6573610051,,,,
+9,SHRUTI singh,Female,UP,Lucknow ,66,Yes,covaxin,19/11/2021,No,19/12/2021,No,6883054940,yes,yes,,yes
+10,Selena Gomez,Female,Karnataka,Mysuru,70,Yes,covishield,25/02/2022,No,,,,No,,,
+11,Chris kumar mishra,Male,U. P. ,Noida,62,Yes,covaxin,30/01/2022,"yes, Mildly",,,,No,,yes,
+12,Tom Hiddelton singh,Male,Up,Noida,51,Yes,covaxin,26/01/2022,No,,,,No,,,
+13,IronMan Kumar,Male,Haryana,Faridabad,61,Yes,covaxin,28/01/2022,No,,,,No,,,
+14,Batman Gupta,Male,Up,Meerut,65,Yes,covishield,29/01/2022,No,,,,No,,yes,
+15,Balckwidow Sharma,Female,Haryana,Gurugram,70,Yes,covishield,29/01/2022,No,,,,No,,,
+16,Superman Gujjar,Male,gujrat,surat,91,Yes,covishield,28/01/2022,"Yes, Strongly",,,,No,,yes,
+17,Spiderman Patel,Male,Up,Lucknow,43,Yes,covaxin,30/01/2022,"Yes, mildly",,,,No,,,
+18,Aquaman gupta,Male,Delhi,Laxminagar,50,Yes,covishield,26/01/2022,"Yes, mildly",,,,No,,,
+19,Dr. Strange Agarwal,Male,Haryana,Faridabad,63,yes,covishield,29/01/2022,No,,,,No,,yes,
+20,Shang Chi Sinha,Male,Delhi,Okhla,65,yes,covishield,30/01/2022,No,,,,No,,yes,
+21,MANGAL SINGH GARBYAL,Male,Uttar Pradesh,LUCKNOW,56,No,,,,,,9746073747,,,,
+22,Rubi Garbyal,Female,Rajasthan,Jaipur,47,No,,,,,,8175270521,,,,
+23,shivam salwani,Male,Rajasthan,jodhpur,23,No,,,,,,2703462072,,,,
+24,Harish Singh Garbyal,Male,Maharashtra,Nagpur,27,No,,,,,,4182534158,,,,
+25,Umesh Singh Garbyal,Male,Uttar Pradesh,Noida,24,No,,,,,,9467893025,,,,
+26,SHIVANSHU,Male,Uttar Pradesh ,Meerut,23,No,,,,,,5283078170,,,,
+27,Madhurima Chauhan,Female,Karnataka,Mysuru,70,Yes,covishield,15/10/2021,No,14/12/2021,"yes, Strongly",8313850561,yes,yes,,
+28,Brajesh kumar mishra,Male,U. P. ,Noida,62,Yes,covaxin,11/12/2021,"yes, Mildly",10/01/2022,No,3800981424,yes,No,yes,yes
+29,Rajan singh,Male,Up,Noida,51,Yes,covaxin,04/12/2021,No,03/01/2022,No,1907052384,yes,no,,
+30,IronMan,Male,Haryana,Faridabad,61,Yes,covaxin,05/11/2021,No,05/12/2021,No,8853960664,yes,yes,,
+31,Batman Singh,Male,Up,Meerut,65,Yes,covishield,02/10/2021,No,01/12/2021,No,8132138092,yes,yes,yes,yes
+32,Shashi Agarwal ,Male,U P,Lucknow ,65,Yes,covishield,09/10/2021,"yes, Mildly",08/12/2021,No,5288035173,yes,yes,,yes
+33,Balckwidow Mishra,Female,Haryana,Gurugram,70,Yes,covishield,01/10/2021,No,30/11/2021,No,7980560009,yes,No,,
+34,Lal Bahadur singh,Male,gujrat,surat,91,Yes,covishield,06/10/2021,"Yes, Strongly",05/12/2021,No,8391332428,yes,yes,yes,yes
+35,Spiderman Patel,Male,Up,Lucknow,41,Yes,covaxin,30/11/2021,"Yes, mildly",30/12/2021,"yes, Strongly",8003545863,yes,no,,
+36,Aquaman gupta,Male,Delhi,Laxminagar,49,Yes,covishield,26/09/2021,"Yes, mildly",25/11/2021,No,2318619383,yes,yes,,
+37,Alok ,Male,Uttar pradesh,Lucknow,60,Yes,covaxin,21/10/2021,No,20/11/2021,No,7723815336,yes,yes,,yes
+38,Hari Ram Agarwal,Male,U P,Lucknow ,67,Yes,covishield,05/10/2021,No,04/12/2021,No,3723415071,yes,No,,
+39,Gauri Shukla,Female,Uttar Pradesh,Lucknow,22,No,,,,,,8726459383,,,,
+40,Ashtbhuja shukla,Male,Uttar pradesh ,Varanasi,60,Yes,covishield,02/10/2021,No,01/12/2021,No,6813416428,yes,yes,Yes,yes
+41,Santosh Kumar Mishra,Male,Uttar Pradesh,Lakhimpur Kheri,64,Yes,covaxin,01/01/2022,"yes, Mildly",31/01/2022,No,2352773109,yes,No,Yes,No
+42,Poonam,Female,Uttar Pradesh,Hardoi,65,Yes,covaxin,08/10/2021,No,07/11/2021,No,5081529239,yes,No,Yes,yes
+43,Divakar Dwivedi,Male,Uttar Pradesh,Hardoi,45,Yes,covaxin,04/01/2022,No,03/02/2022,No,7800818412,yes,No,,
+44,Siyaram mistree,Male,U. P. ,Meerut,58,No,,,,,,7198329346,,,,
+45,Saroj,Female,Uttar Pradesh,Gorakhpur,70,Yes,covishield,10/10/2021,"yes, Mildly",09/12/2021,"yes, Mildly",5495274447,yes,yes,,yes
+46,Ram bahal,Male,Uttar pradesh,Ghaziabad,61,Yes,cvoishield,11/10/2021,No,10/12/2021,"yes, Mildly",2342952519,yes,No,,
+47,pramod kumar srivastava ,Male,Uttar Pradesh,Noida,35,Yes,covaxin,04/12/2021,"yes, Mildly",03/01/2022,No,8067628138,yes,yes,,
+48,Ravi Kesrwani,Male,Kerala,kochi,56,No,,,,,,6952956292,,,,
+49,Pratima Chauhan,Female,Himachal Pradesh,Shimla,72,Yes,covishield,06/10/2021,No,05/12/2021,No,4315582761,yes,yes,Yes,yes
+50,Manu Sharma,Male,Uttarakhand,Haridwar,43,No,,,,,,9565799167,,,,
+51,Rajni Gulati,Female,Uttar Pradesh,moradabad,67,Yes,covishield,28/10/2021,"yes, Mildly",27/12/2021,No,8210850475,yes,No,Yes,No
+52,Anuj Nigam,Male,Uttar pradesh,Lucknow,59,Yes,covishield,12/09/2021,No,11/11/2021,"yes, Mildly",3877348952,yes,No,Yes,yes
+53,Umesh Tiwari ,Male,HP,Manali,23,No,,,,,,5525313178,,,,
+54,G.K mishra,Male,UP,Lucknow,64,Yes,covaxin,13/11/2021,"yes, Strongly",13/12/2021,"yes, Mildly",1699348566,yes,yes,yes,yes
+55,Ananya Srivastava,Female,Uttar Pradesh,Lucknow,22,No,,,,,,3481405467,,,,
+56,Rahul Yadav,Male,Rajasthan,Jaipur,21,Yes,covaxin,06/12/2021,"yes, Mildly",05/01/2022,"yes, Strongly",3632639892,yes,yes,,
+57,Aniruddh mishra,Male,Rajasthan,Udaipur,67,Yes,covaxin,29/11/2021,No,29/12/2021,No,6601452488,yes,No,yes,yes
+58,Navin Maheshwari,Male,Goa,panji,54,Yes,covishield,04/09/2021,No,03/11/2021,"yes, Mildly",8993670450,yes,No,,
+59,Saroj Yadav,Female,Gujrat,Ahemdabad,51,Yes,covishield,01/10/2021,"yes, Mildly",30/11/2021,No,8794305970,yes,yes,,

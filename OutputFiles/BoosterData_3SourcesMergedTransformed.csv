@@ -1,0 +1,171 @@
+Age,Booster_Dose_Possibility,City,Cowin_Ref_ID,Diseases,First_Dose_Date,First_Dose_Side_Effects,Gender,Name,Positive_After_Vaccine,Second_Dose_Date,Second_Dose_Side_Effects,Second_Dose_Status,State,Taken_Vaccine,UID,Vaccine_Name,IsAgeGreaterThan60,DaysSince2ndDose,IsBoosterApplicable
+67,Yes,Ahmednagar,6959353692,True,2021-10-26,No,Female,Anamika Salve,True,2021-11-26,No,True,Maharashtra,Yes,201,Covaxin,True,84,True
+23,"",Akola,"",NA,"","",Male,Shashank kumar,NA,"","",NA,Maharashtra,No,202,NA,False,"",False
+53,Yes,Jamshedpur,1157693293,True,2021-09-27,No,Male,Rohan Kumar,True,2021-11-28,"yes, Mildly",True,Jharkhand,Yes,203,Covishield,False,82,True
+18,Yes,Bhubaneswar,1766412616,False,2021-06-01,"yes, Strongly",Female,Pooja Murde,True,2021-08-01,"yes, Mildly",True,Odisha,Yes,204,Covishield,False,201,True
+55,"",Nashik,"",NA,"","",Male,Ashutosh mukherjee,NA,"","",NA,Maharashtra,No,205,NA,False,"",False
+76,No,Jodhpur,8343544084,False,2021-12-01,No,Female,Ruchita Pagar,True,2022-02-06,No,True,Rajasthan,Yes,206,Covishield,True,12,False
+21,No,Lucknow,2659722129,False,2021-10-26,No,Male,Rahul sharma,False,2021-12-27,No,True,Uttar Pradesh,Yes,207,Covishield,False,53,False
+68,No,Akola,9468023618,True,2021-11-01,"yes, Mildly",Female,Vishakha Singh,False,2022-01-01,"yes, Mildly",True,Maharashtra,Yes,208,Covishield,True,48,False
+62,No,Pratapgarh,1160273338,False,2021-12-10,No,Male,Aditya patel,True,2022-02-11,No,True,UP,Yes,209,Covishield,True,7,False
+21,Yes,Pune,9965629738,True,2021-04-26,"yes, Strongly",Female,Mayuri murde,True,2021-05-26,No,True,Maharashtra,Yes,210,Covaxin,False,268,True
+55,Yes,Panaji,1320505758,True,2021-10-27,No,Female,Shital khose,True,2021-11-27,"yes, Mildly",True,Goa,Yes,211,Covaxin,False,83,True
+71,Yes,Ahmednagar,6070324368,True,2021-10-09,"yes, Strongly",Female,Shital kardile,True,2021-12-09,No,True,Maharashtra,Yes,212,Covishield,True,71,True
+45,"",Amravati,"",NA,"","",Male,Karan patel,NA,"","",NA,Maharashtra,No,213,NA,False,"",False
+32,"",Bhubaneswar,"",NA,"","",Female,Pooja Gahile,NA,"","",NA,Odisha,No,214,NA,False,"",False
+23,No,Lucknow,1411754951,True,2021-07-01,No,Male,Sanjay Kumar,False,2021-09-07,No,True,Uttar Pradesh,Yes,215,Covishield,False,164,True
+61,No,LUCKNOW,6188637448,False,2021-08-09,No,Female,Pratiksha Kale,False,2021-10-19,No,True,Uttar Pradesh,Yes,216,Covishield,True,122,True
+21,Yes,Jodhpur,9089160762,False,2021-11-21,No,Female,Sara shaikh,True,2021-12-21,No,False,Rajasthan,Yes,217,Covaxin,False,59,True
+55,No,Ahmednagar,2128713826,False,2021-12-09,No,Female,Saniya mukherjee,True,2022-02-06,No,False,Maharashtra,Yes,218,Covishield,False,12,False
+55,"",Durgapur,"",NA,"","",Male,Kapil sharma,NA,"","",NA,West Bengal,No,219,NA,False,"",False
+18,No,Delhi,1663416436,True,2022-01-01,"yes, Mildly",Female,Prajakta Sigh,True,2022-02-01,"yes, Mildly",True,Delhi,Yes,220,Covaxin,False,17,False
+21,Yes,Amravati,9815126449,True,2021-08-26,"yes, Mildly",Female,Akshara yadav,True,2021-10-29,No,True,Maharashtra,Yes,221,Covaxin,False,112,True
+68,No,Jamshedpur,8604074175,False,2021-09-23,No,Female,Kalpana gore,False,2021-11-03,"yes, Mildly",True,Jharkhand,Yes,222,Covaxin,True,107,True
+56,No,Jaipur,5955611228,False,2021-05-23,"yes, Mildly",Female,Aasha kardile,False,2021-07-23,"yes, Strongly",True,Rajasthan,Yes,223,Covishield,False,210,True
+23,"",Panipat,"",NA,"","",Female,Jayashri yadav,NA,"","",NA,Haryana,No,224,NA,False,"",False
+54,"",Kangra,"",NA,2021-06-09,No,Male,Neeraj verma,NA,"","",False,Himachal,Yes,225,Covishield,False,"",False
+56,"",Jamshedpur,"",NA,"","",Male,Sugandhraj Patel,NA,"","",NA,Jharkhand,No,226,NA,False,"",False
+66,"",Berhampore,"",NA,"","",Female,Pooja Kamble,NA,"","",NA,West Bengal,No,227,NA,True,"",False
+18,Yes,Pratapgarh,3530697734,False,2021-09-03,No,Female,Harshada Satpute,True,2021-11-07,"yes, Strongly",True,UP,Yes,228,Covishield,False,103,True
+21,No,Kolhapur,4816140207,False,2021-11-21,"yes, Mildly",Male,Umesh jadhav,False,2022-01-21,No,True,Maharashtra,Yes,229,Covishield,False,28,False
+53,No,Lucknow,8110079945,True,2021-11-03,"yes, Strongly",Female,Dipali Bangar,False,2021-12-09,No,True,Uttar Pradesh,Yes,230,Covaxin,False,71,True
+67,No,Panaji,6003863388,True,2021-11-13,"yes, Mildly",Female,Dipali Jadhav,True,2022-01-15,No,True,Goa,Yes,231,Covishield,True,34,False
+63,Yes,Nagpur,4294085468,True,2021-10-11,No,Female,Apeksha Jain,True,2021-12-13,No,True,Maharashtra,Yes,232,Covishield,True,67,True
+26,"",Kangra,"",NA,"","",Male,Varun sarna,NA,"","",NA,Himachal,No,233,NA,False,"",False
+56,"",Akola,"",NA,"","",Male,Kiran sarnis,NA,"","",NA,Maharashtra,No,234,NA,False,"",False
+64,No,Panaji,5443462512,True,2022-01-03,"yes, Mildly",Female,Aarti sharma,False,2022-02-07,No,True,Goa,Yes,235,Covaxin,True,11,False
+65,No,Mumbai,9445315811,True,2021-12-26,"yes, Strongly",Male,Tharun parita,False,2022-01-26,"yes, Strongly",True,Maharashtra,Yes,236,Covaxin,True,23,False
+73,No,Pune,3402303947,False,2021-12-07,No,Male,Umesh singh,False,2022-01-09,No,True,Maharashtra,Yes,237,Covaxin,True,40,True
+21,Yes,Nashik,7418361306,True,2021-10-16,"yes, Mildly",Female,Riddhi Deshmukh,False,2021-12-16,No,True,Maharashtra,Yes,238,Covishield,False,64,True
+63,Yes,Akola,4809201008,True,2021-05-21,No,Female,Harshada Shelkande,True,2021-07-29,No,True,Maharashtra,Yes,239,Covishield,True,204,True
+23,Yes,Panipat,4846894433,True,2021-08-27,No,Male,Kunal kale,True,2021-10-28,"yes, Strongly",True,Haryana,Yes,240,Covishield,False,113,True
+34,Yes,Kolhapur,5351597369,True,2021-10-03,No,Male,Pravin tarade,True,2021-11-03,No,True,Maharashtra,Yes,241,Covaxin,False,107,True
+60,Yes,Nashik,2207488089,True,2021-11-29,"yes, Mildly",Female,Priyanka patel,False,2022-01-29,"yes, Strongly",True,Maharashtra,Yes,242,Covishield,True,20,False
+76,No,Pune,7296162027,False,2021-12-03,No,Female,Abigael pande,False,2022-01-07,No,True,Maharashtra,Yes,243,Covaxin,True,42,True
+23,"",Nashik,"",NA,"","",Male,Vishesh Agarwal,NA,"","",NA,Maharashtra,No,244,NA,False,"",False
+62,No,Jamshedpur,"",True,2021-07-03,No,Male,Tushar Mete,NA,"","",False,Jharkhand,Yes,245,Covishield,True,"",False
+64,Yes,Nashik,5379734328,True,2021-09-21,No,Female,Manisha Mete,False,2021-11-22,No,True,Maharashtra,Yes,246,Covishield,True,88,True
+23,Yes,Nagar,1661531720,True,2021-11-22,"yes, Strongly",Male,Subhash Lotake,False,2022-01-23,No,True,Maharashtra,Yes,247,Covishield,False,26,False
+76,Yes,Aurangabad,8755222000,True,2021-07-13,No,Female,Pooja Tekade,False,2021-09-13,"yes, Strongly",True,Maharashtra,Yes,248,Covishield,True,158,True
+67,Yes,Kolhapur,2902652126,True,2021-09-03,No,Male,Girish Mukherjee,True,2021-11-02,No,True,Maharashtra,Yes,249,Covishield,True,108,True
+65,No,Ahmedabad,3944782686,False,2021-12-03,"yes, Strongly",Male,Priyank Gupta,False,2022-02-19,No,True,Gujrat,Yes,250,Covishield,True,-1,False
+1,Ashtbhuja shukla,Male,Uttar pradesh,NA,"",Yes,covishield,02/10/2021,False,2021-12-01,No,NA,yes,yes,"",NA,False,79,False
+2,Santosh Kumar Mishra,Male,Uttar Pradesh,NA,"",Yes,covaxin,01/01/2022,NA,2022-01-31,No,NA,yes,No,"",NA,False,18,False
+3,Poonam,Female,Uttar Pradesh,NA,"",Yes,covaxin,08/10/2021,False,2021-11-07,No,NA,yes,No,"",NA,False,103,False
+4,Divakar Dwivedi,Male,Uttar Pradesh,NA,"",Yes,covaxin,04/01/2022,False,2022-02-03,No,NA,yes,No,"",NA,False,15,False
+5,Siyaram mistree,Male,U. P.,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+6,Saroj,Female,Uttar Pradesh,NA,"",Yes,covishield,10/10/2021,NA,2021-12-09,"yes, Mildly",NA,yes,yes,"",NA,False,71,False
+7,Ram bahal,Male,Uttar pradesh,NA,"",Yes,cvoishield,11/10/2021,False,2021-12-10,"yes, Mildly",NA,yes,No,"",NA,False,70,False
+8,pramod kumar srivastava,Male,Uttar Pradesh,NA,"",Yes,covaxin,04/12/2021,NA,2022-01-03,No,NA,yes,yes,"",NA,False,46,False
+9,Ravi Kesrwani,Male,Kerala,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+10,Pratima Chauhan,Female,Himachal Pradesh,NA,"",Yes,covishield,06/10/2021,False,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+11,Manu Sharma,Male,Uttarakhand,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+12,Rajni Gulati,Female,Uttar Pradesh,NA,"",Yes,covishield,28/10/2021,NA,2021-12-27,No,NA,yes,No,"",NA,False,53,False
+13,Anuj Nigam,Male,Uttar pradesh,NA,"",Yes,covishield,12/09/2021,False,2021-11-11,"yes, Mildly",NA,yes,No,"",NA,False,99,False
+14,Umesh Tiwari,Male,HP,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+15,G.K mishra,Male,UP,NA,"",Yes,covaxin,13/11/2021,NA,2021-12-13,"yes, Mildly",NA,yes,yes,"",NA,False,67,False
+16,Ananya Srivastava,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+17,Rahul Yadav,Male,Rajasthan,NA,"",Yes,covaxin,06/12/2021,NA,2022-01-05,"yes, Strongly",NA,yes,yes,"",NA,False,44,False
+18,Aniruddh mishra,Male,Rajasthan,NA,"",Yes,covaxin,29/11/2021,False,2021-12-29,No,NA,yes,No,"",NA,False,51,False
+19,Navin Maheshwari,Male,Goa,NA,"",Yes,covishield,04/09/2021,False,2021-11-03,"yes, Mildly",NA,yes,No,"",NA,False,107,False
+20,Saroj Yadav,Female,Gujrat,NA,"",Yes,covishield,01/10/2021,NA,2021-11-30,No,NA,yes,yes,"",NA,False,80,False
+21,Kailash yadav,Male,Gujrat,NA,"",Yes,covishield,01/11/2021,NA,2021-12-31,"yes, Mildly",NA,yes,yes,"",NA,False,49,False
+22,Saroj Yadav,Female,Uttar Pradesh,NA,"",Yes,covaxin,16/11/2021,NA,2021-12-16,No,NA,yes,No,"",NA,False,64,False
+23,Bal kirshna yadav,Male,Uttar pardesh,NA,"",Yes,covishield,03/12/2021,False,2022-02-01,"yes, Strongly",NA,yes,No,"",NA,False,17,False
+24,Amita dixit,Female,Maharashtra,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+25,Sanjeev Chauhan,Male,Maharashtra,NA,"",Yes,covishield,15/10/2021,NA,2021-12-14,"yes,Mildly",NA,yes,No,"",NA,False,66,False
+26,Raj Shekhar Singh,Male,Tamil Nadu,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+27,Harshit Pandey,Male,Karnataka,NA,"",Yes,covaxin,02/12/2021,NA,2022-01-01,"yes, Mildly",NA,yes,yes,"",NA,False,48,False
+28,Vanshika Singh,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+29,SHRUTI singh,Female,UP,NA,"",Yes,covaxin,19/11/2021,False,2021-12-19,No,NA,yes,yes,"",NA,False,61,False
+30,Anupriya Nishad,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+31,Alok,Male,Uttar pradesh,NA,"",Yes,covaxin,21/10/2021,False,2021-11-20,No,NA,yes,yes,"",NA,False,90,False
+32,Hari Ram Agarwal,Male,U P,NA,"",Yes,covishield,05/10/2021,False,2021-12-04,No,NA,yes,No,"",NA,False,76,False
+33,Gauri Shukla,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+34,Shashi Agarwal,Male,U P,NA,"",Yes,covishield,09/10/2021,NA,2021-12-08,No,NA,yes,yes,"",NA,False,72,False
+35,MANGAL SINGH GARBYAL,Male,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+36,Rubi Garbyal,Female,Rajasthan,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+37,shivam salwani,Male,Rajasthan,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+38,Harish Singh Garbyal,Male,Maharashtra,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+39,Umesh Singh Garbyal,Male,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+40,SHIVANSHU,Male,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+41,Madhurima Chauhan,Female,Karnataka,NA,"",Yes,covishield,15/10/2021,False,2021-12-14,"yes, Strongly",NA,yes,yes,"",NA,False,66,False
+42,Brajesh kumar mishra,Male,U. P.,NA,"",Yes,covaxin,11/12/2021,NA,2022-01-10,No,NA,yes,No,"",NA,False,39,False
+43,Rajan singh,Male,Up,NA,"",Yes,covaxin,04/12/2021,False,2022-01-03,No,NA,yes,no,"",NA,False,46,False
+44,IronMan,Male,Haryana,NA,"",Yes,covaxin,05/11/2021,False,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+45,Batman Singh,Male,Up,NA,"",Yes,covishield,02/10/2021,False,2021-12-01,No,NA,yes,yes,"",NA,False,79,False
+46,Balckwidow Mishra,Female,Haryana,NA,"",Yes,covishield,01/10/2021,False,2021-11-30,No,NA,yes,No,"",NA,False,80,False
+47,Lal Bahadur singh,Male,gujrat,NA,"",Yes,covishield,06/10/2021,NA,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+48,Spiderman Patel,Male,Up,NA,"",Yes,covaxin,30/11/2021,NA,2021-12-30,"yes, Strongly",NA,yes,no,"",NA,False,50,False
+49,Aquaman gupta,Male,Delhi,NA,"",Yes,covishield,26/09/2021,NA,2021-11-25,No,NA,yes,yes,"",NA,False,85,False
+50,Thanos Sharma,Male,"",NA,"",yes,covishield,31/01/2022,False,"","",NA,No,"","",NA,False,"",False
+51,Selena Gomez,Female,Karnataka,NA,"",Yes,covishield,25/02/2022,False,"","",NA,No,"","",NA,False,"",False
+52,Chris kumar mishra,Male,U. P.,NA,"",Yes,covaxin,30/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+53,Tom Hiddelton singh,Male,Up,NA,"",Yes,covaxin,26/01/2022,False,"","",NA,No,"","",NA,False,"",False
+54,IronMan Kumar,Male,Haryana,NA,"",Yes,covaxin,28/01/2022,False,"","",NA,No,"","",NA,False,"",False
+55,Batman Gupta,Male,Up,NA,"",Yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,False,"",False
+56,Balckwidow Sharma,Female,Haryana,NA,"",Yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,False,"",False
+57,Superman Gujjar,Male,gujrat,NA,"",Yes,covishield,28/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+58,Spiderman Patel,Male,Up,NA,"",Yes,covaxin,30/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+59,Aquaman gupta,Male,Delhi,NA,"",Yes,covishield,26/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+60,Dr. Strange Agarwal,Male,Haryana,NA,"",yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,True,"",False
+61,Shang Chi Sinha,Male,Delhi,NA,"",yes,covishield,30/01/2022,False,"","",NA,No,"","",NA,True,"",False
+1,Kailash yadav,Male,Gujrat,NA,"",Yes,covishield,01/11/2021,NA,2021-12-31,"yes, Mildly",NA,yes,yes,"",NA,False,49,False
+2,Saroj Yadav,Female,Uttar Pradesh,NA,"",Yes,covaxin,16/11/2021,NA,2021-12-16,No,NA,yes,No,"",NA,False,64,False
+3,Bal kirshna yadav,Male,Uttar pardesh�,NA,"",Yes,covishield,03/12/2021,False,2022-02-01,"yes, Strongly",NA,yes,No,"",NA,False,17,False
+4,Amita dixit,Female,Maharashtra,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+5,Sanjeev Chauhan,Male,Maharashtra,NA,"",Yes,covishield,15/10/2021,NA,2021-12-14,"yes,Mildly",NA,yes,No,"",NA,False,66,False
+6,Raj Shekhar Singh,Male,Tamil Nadu,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+7,Harshit Pandey,Male,Karnataka,NA,"",Yes,covaxin,02/12/2021,NA,2022-01-01,"yes, Mildly",NA,yes,yes,"",NA,False,48,False
+8,Vanshika Singh,Female,Uttar Pradesh�,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+9,SHRUTI singh,Female,UP,NA,"",Yes,covaxin,19/11/2021,False,2021-12-19,No,NA,yes,yes,"",NA,False,61,False
+10,Selena Gomez,Female,Karnataka,NA,"",Yes,covishield,25/02/2022,False,"","",NA,No,"","",NA,False,"",False
+11,Chris kumar mishra,Male,U. P.�,NA,"",Yes,covaxin,30/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+12,Tom Hiddelton singh,Male,Up,NA,"",Yes,covaxin,26/01/2022,False,"","",NA,No,"","",NA,False,"",False
+13,IronMan Kumar,Male,Haryana,NA,"",Yes,covaxin,28/01/2022,False,"","",NA,No,"","",NA,False,"",False
+14,Batman Gupta,Male,Up,NA,"",Yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,False,"",False
+15,Balckwidow Sharma,Female,Haryana,NA,"",Yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,False,"",False
+16,Superman Gujjar,Male,gujrat,NA,"",Yes,covishield,28/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+17,Spiderman Patel,Male,Up,NA,"",Yes,covaxin,30/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+18,Aquaman gupta,Male,Delhi,NA,"",Yes,covishield,26/01/2022,NA,"","",NA,No,"","",NA,False,"",False
+19,Dr. Strange Agarwal,Male,Haryana,NA,"",yes,covishield,29/01/2022,False,"","",NA,No,"","",NA,False,"",False
+20,Shang Chi Sinha,Male,Delhi,NA,"",yes,covishield,30/01/2022,False,"","",NA,No,"","",NA,False,"",False
+21,MANGAL SINGH GARBYAL,Male,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+22,Rubi Garbyal,Female,Rajasthan,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+23,shivam salwani,Male,Rajasthan,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+24,Harish Singh Garbyal,Male,Maharashtra,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+25,Umesh Singh Garbyal,Male,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+26,SHIVANSHU,Male,Uttar Pradesh�,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+27,Madhurima Chauhan,Female,Karnataka,NA,"",Yes,covishield,15/10/2021,False,2021-12-14,"yes, Strongly",NA,yes,yes,"",NA,False,66,False
+28,Brajesh kumar mishra,Male,U. P.�,NA,"",Yes,covaxin,11/12/2021,NA,2022-01-10,No,NA,yes,No,"",NA,False,39,False
+29,Rajan singh,Male,Up,NA,"",Yes,covaxin,04/12/2021,False,2022-01-03,No,NA,yes,no,"",NA,False,46,False
+30,IronMan,Male,Haryana,NA,"",Yes,covaxin,05/11/2021,False,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+31,Batman Singh,Male,Up,NA,"",Yes,covishield,02/10/2021,False,2021-12-01,No,NA,yes,yes,"",NA,False,79,False
+32,Shashi Agarwal�,Male,U P,NA,"",Yes,covishield,09/10/2021,NA,2021-12-08,No,NA,yes,yes,"",NA,False,72,False
+33,Balckwidow Mishra,Female,Haryana,NA,"",Yes,covishield,01/10/2021,False,2021-11-30,No,NA,yes,No,"",NA,False,80,False
+34,Lal Bahadur singh,Male,gujrat,NA,"",Yes,covishield,06/10/2021,NA,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+35,Spiderman Patel,Male,Up,NA,"",Yes,covaxin,30/11/2021,NA,2021-12-30,"yes, Strongly",NA,yes,no,"",NA,False,50,False
+36,Aquaman gupta,Male,Delhi,NA,"",Yes,covishield,26/09/2021,NA,2021-11-25,No,NA,yes,yes,"",NA,False,85,False
+37,Alok�,Male,Uttar pradesh,NA,"",Yes,covaxin,21/10/2021,False,2021-11-20,No,NA,yes,yes,"",NA,False,90,False
+38,Hari Ram Agarwal,Male,U P,NA,"",Yes,covishield,05/10/2021,False,2021-12-04,No,NA,yes,No,"",NA,False,76,False
+39,Gauri Shukla,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+40,Ashtbhuja shukla,Male,Uttar pradesh�,NA,"",Yes,covishield,02/10/2021,False,2021-12-01,No,NA,yes,yes,"",NA,False,79,False
+41,Santosh Kumar Mishra,Male,Uttar Pradesh,NA,"",Yes,covaxin,01/01/2022,NA,2022-01-31,No,NA,yes,No,"",NA,False,18,False
+42,Poonam,Female,Uttar Pradesh,NA,"",Yes,covaxin,08/10/2021,False,2021-11-07,No,NA,yes,No,"",NA,False,103,False
+43,Divakar Dwivedi,Male,Uttar Pradesh,NA,"",Yes,covaxin,04/01/2022,False,2022-02-03,No,NA,yes,No,"",NA,False,15,False
+44,Siyaram mistree,Male,U. P.�,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+45,Saroj,Female,Uttar Pradesh,NA,"",Yes,covishield,10/10/2021,NA,2021-12-09,"yes, Mildly",NA,yes,yes,"",NA,False,71,False
+46,Ram bahal,Male,Uttar pradesh,NA,"",Yes,cvoishield,11/10/2021,False,2021-12-10,"yes, Mildly",NA,yes,No,"",NA,False,70,False
+47,pramod kumar srivastava�,Male,Uttar Pradesh,NA,"",Yes,covaxin,04/12/2021,NA,2022-01-03,No,NA,yes,yes,"",NA,False,46,False
+48,Ravi Kesrwani,Male,Kerala,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+49,Pratima Chauhan,Female,Himachal Pradesh,NA,"",Yes,covishield,06/10/2021,False,2021-12-05,No,NA,yes,yes,"",NA,False,75,False
+50,Manu Sharma,Male,Uttarakhand,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+51,Rajni Gulati,Female,Uttar Pradesh,NA,"",Yes,covishield,28/10/2021,NA,2021-12-27,No,NA,yes,No,"",NA,False,53,False
+52,Anuj Nigam,Male,Uttar pradesh,NA,"",Yes,covishield,12/09/2021,False,2021-11-11,"yes, Mildly",NA,yes,No,"",NA,False,99,False
+53,Umesh Tiwari�,Male,HP,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+54,G.K mishra,Male,UP,NA,"",Yes,covaxin,13/11/2021,NA,2021-12-13,"yes, Mildly",NA,yes,yes,"",NA,False,67,False
+55,Ananya Srivastava,Female,Uttar Pradesh,NA,"",No,"","",NA,"","",NA,"","","",NA,False,"",False
+56,Rahul Yadav,Male,Rajasthan,NA,"",Yes,covaxin,06/12/2021,NA,2022-01-05,"yes, Strongly",NA,yes,yes,"",NA,False,44,False
+57,Aniruddh mishra,Male,Rajasthan,NA,"",Yes,covaxin,29/11/2021,False,2021-12-29,No,NA,yes,No,"",NA,False,51,False
+58,Navin Maheshwari,Male,Goa,NA,"",Yes,covishield,04/09/2021,False,2021-11-03,"yes, Mildly",NA,yes,No,"",NA,False,107,False
+59,Saroj Yadav,Female,Gujrat,NA,"",Yes,covishield,01/10/2021,NA,2021-11-30,No,NA,yes,yes,"",NA,False,80,False
